@@ -18,12 +18,11 @@ Practical, honest and demo-first: *"here's how I actually work"* beats hype.
 
 - 🌐 **Website:** [agentcraftai.dev](https://agentcraftai.dev)
 - 💬 **Discord:** [join the server](https://discord.gg/7ztTXD7DX3)
-- 🟠 **Reddit:** [r/agentcraftai](https://www.reddit.com/r/agentcraftai/)
 
 ## 🎤 Give a talk
 
 Built something with agents? Got a workflow worth showing? We're always after demos, big or small.
-Drop your idea in **#talk-ideas** on [Discord](https://discord.gg/7ztTXD7DX3), or post it on [r/agentcraftai](https://www.reddit.com/r/agentcraftai/).
+Drop your idea in **#talk-ideas** on [Discord](https://discord.gg/7ztTXD7DX3).
 
 ---
 
